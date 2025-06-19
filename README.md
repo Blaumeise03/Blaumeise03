@@ -25,6 +25,7 @@
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-F05032?style=flat-square&logo=webpack&logoColor=white" />
   <img alt="Vulkan" src="https://img.shields.io/badge/-Vulkan-F05032?style=flat-square&logo=vulkan&logoColor=white" />
 </p>
+
 - Discord Bots with PyCord
 - Reverse Engineering
 - Cross-Plattform Apps with Flutter
